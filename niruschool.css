@@ -1,0 +1,26 @@
+html{
+background-color:#094E7F;
+min-width: 1000px;
+overflow-y: scroll !important;	
+}
+
+p{
+	color:grey;
+}
+
+div{
+
+	color:pink;
+	background-color: #b7d1c4;
+}
+
+img {
+	height: 170px;
+	width: 170px;
+	box-shadow: rgba(0,0,0,0.2) 10px 10px;
+
+}
+
+ul {
+	list-style: none;
+}
